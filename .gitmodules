@@ -1,0 +1,6 @@
+[submodule "AA_child"]
+	path = AA_child
+	url = https://Zone24x7-KLD-BMS-Kanishkaw:KLDEnergyTech1@github.com/Zone24x7-KLD-BMS-Kanishkaw/AA_child
+[submodule "BB_child"]
+	path = BB_child
+	url = https://Zone24x7-KLD-BMS-Kanishkaw:KLDEnergyTech1@github.com/Zone24x7-KLD-BMS-Kanishkaw/BB_child
